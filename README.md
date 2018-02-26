@@ -1,0 +1,1 @@
+This is set of useful functions for Jenkins shared library.
